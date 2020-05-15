@@ -1,0 +1,95 @@
+[
+    {
+      "name": "Cheese Pizza",
+      "calories": 2269,
+      "nutrients": [
+        {
+          "name": "Fat",
+          "value": "83g",
+          "percentage": "190%"
+        },
+        {
+          "name": "Cholestrol",
+          "value": "145mg",
+          "percentage": "48%"
+        },
+        {
+          "name": "Sodium",
+          "value": "5101mg",
+          "percentage": "213%"
+        },
+        {
+          "name": "Potassium",
+          "value": "1467mg",
+          "percentage": "42%"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "284",
+          "percentage": "95%"
+        }
+      ]
+    },
+    {
+      "name": "Cereal",
+      "calories": 376,
+      "nutrients": [
+        {
+          "name": "Fat",
+          "value": "6.7g",
+          "percentage": "10%"
+        },
+        {
+          "name": "Cholestrol",
+          "value": "0mg",
+          "percentage": "0%"
+        },
+        {
+          "name": "Sodium",
+          "value": "497mg",
+          "percentage": "213%"
+        },
+        {
+          "name": "Potassium",
+          "value": "641mg",
+          "percentage": "18%"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "73g",
+          "percentage": "24%"
+        }
+      ]
+    },
+    {
+      "name": "Fried Rice",
+      "calories": 238,
+      "nutrients": [
+        {
+          "name": "Fat",
+          "value": "4.1g",
+          "percentage": "6%"
+        },
+        {
+          "name": "Cholestrol",
+          "value": "25mg",
+          "percentage": "8%"
+        },
+        {
+          "name": "Sodium",
+          "value": "530mg",
+          "percentage": "22%"
+        },
+        {
+          "name": "Potassium",
+          "value": "104mg",
+          "percentage": "3%"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "45g",
+          "percentage": "15%"
+        }
+      ]
+    }
+  ]

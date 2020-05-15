@@ -1,1 +1,3 @@
-# diet-buddy-poc
+# DietMate_POC
+
+Proof Of Concept
